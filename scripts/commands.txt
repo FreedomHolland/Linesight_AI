@@ -1,0 +1,1 @@
+"C:\Users\DuFra\miniconda3\envs\ldm\Scripts\tensorboard.exe" --logdir="E:\Trackmania AI coding\trackmania_rl_public\tensorboard"
